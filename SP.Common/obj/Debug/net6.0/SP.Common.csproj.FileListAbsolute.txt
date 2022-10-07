@@ -1,0 +1,15 @@
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\bin\Debug\net6.0\SP.Common.deps.json
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\bin\Debug\net6.0\SP.Common.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\bin\Debug\net6.0\SP.Common.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.csproj.AssemblyReference.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.AssemblyInfoInputs.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.AssemblyInfo.cs
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.csproj.CoreCompileInputs.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\refint\SP.Common.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\ref\SP.Common.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.Messages.MessagesResource.resources
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.Messages.ValidationMessagesResource.resources
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Common\obj\Debug\net6.0\SP.Common.csproj.GenerateResource.cache

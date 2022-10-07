@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3CH44WMM38GXUDazjFPscib+jgylzV0yp64MREUIbs2y+L7urEjU6SF90BQ/gtM+S0t2nswW/EDyn5vuciOINA==",
+  "success": true,
+  "projectFilePath": "D:\\Sherkat\\SoftWare\\sampleProject\\SPCodeChallenge\\SP.Common\\SP.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reza\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

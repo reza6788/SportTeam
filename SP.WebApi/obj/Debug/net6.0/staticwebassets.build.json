@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gOCjp3uWqBWbcu0x77wYNfdF1L24zsAfyv2vKRzNIGI=",
+  "Source": "SP.WebApi",
+  "BasePath": "_content/SP.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

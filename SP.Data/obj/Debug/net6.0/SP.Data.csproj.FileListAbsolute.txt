@@ -1,0 +1,15 @@
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\bin\Debug\net6.0\SP.Data.deps.json
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\bin\Debug\net6.0\SP.Data.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\bin\Debug\net6.0\SP.Data.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\bin\Debug\net6.0\SP.Common.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\bin\Debug\net6.0\SP.Common.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.csproj.AssemblyReference.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.AssemblyInfoInputs.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.AssemblyInfo.cs
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.csproj.CoreCompileInputs.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.csproj.CopyComplete
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\refint\SP.Data.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\SP.Data.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Data\obj\Debug\net6.0\ref\SP.Data.dll

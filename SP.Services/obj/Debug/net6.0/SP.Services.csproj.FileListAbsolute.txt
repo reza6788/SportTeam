@@ -1,0 +1,17 @@
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\bin\Debug\net6.0\SP.Services.deps.json
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\bin\Debug\net6.0\SP.Services.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\bin\Debug\net6.0\SP.Services.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.csproj.AssemblyReference.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.AssemblyInfoInputs.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.AssemblyInfo.cs
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.csproj.CoreCompileInputs.cache
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\refint\SP.Services.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\ref\SP.Services.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\bin\Debug\net6.0\SP.Common.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\bin\Debug\net6.0\SP.Data.dll
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\bin\Debug\net6.0\SP.Common.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\bin\Debug\net6.0\SP.Data.pdb
+D:\Sherkat\SoftWare\sampleProject\SPCodeChallenge\SP.Services\obj\Debug\net6.0\SP.Services.csproj.CopyComplete

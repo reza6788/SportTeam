@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CyzY3Peije+T+5UD4B+esx3vslnuLr9U6mFFjc2Y98t7t6JyfZoaEtJPAViAjMvom9rXEgBfvjYnl/odFMh1qQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sherkat\\SoftWare\\sampleProject\\SPCodeChallenge\\SPCodeChallenge\\SPCodeChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Reza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
